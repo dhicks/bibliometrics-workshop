@@ -68,7 +68,7 @@ Bibliometrics can be compared to
 - [Crossref](https://www.crossref.org/services/metadata-delivery/)
     - DOI metadata
     - Unrestricted public use
-    - [Large gaps in coverage?](https://gist.github.com/sckott/7a82fda529f5c2fd63d661c36f47e5d7)
+    - [R client for API](https://github.com/ropensci/rcrossref)
 - [PubMed](https://www.ncbi.nlm.nih.gov/home/develop/api/)
     - Unrestricted public use
     - Good coverage only for biomedical research
